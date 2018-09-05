@@ -11,3 +11,8 @@ import IasonmPod
 ```
 IasonmPod.logToConsole(msg: "Message to log")
 ```
+
+### Update to version 1.1.0
+```
+pod 'IasonmPod', '1.1.0'
+```
