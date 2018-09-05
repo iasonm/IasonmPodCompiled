@@ -1,13 +1,13 @@
 ### Install by adding a podfile to your project with:
 ```
-pod 'IasonmCocoapod2', '1.1.0'
+pod 'IasonmPod', '1.0.0'
 ```
 ### Import framework in your class. 
 ```
-import IasonmCocoapod2
+import IasonmPod
 ```
 
 ### Use:
 ```
-IasonmCocoapod2.logToConsole(msg: "Message to log")
+IasonmPod.logToConsole(msg: "Message to log")
 ```
